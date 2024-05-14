@@ -1,5 +1,6 @@
 project:
   type: website
+  output_dir: docs
 
 website:
   title: "quarto-sample"
