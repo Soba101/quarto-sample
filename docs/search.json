@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Profile Picture\n\n\nHi, I’m Donovan, and this is a little space on the web where I share my journey, projects, and interests. I’m an Applied AI student, and I love to golf! Whether I’m developing innovative AI solutions or perfecting my swing on the golf course, I’m always striving to learn and grow."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Profile Picture\n\n\nHi, I’m Donovan, and this is a little space on the web where I share my journey, projects, and interests. I’m an Applied AI student, and I love to golf! Whether I’m developing innovative AI solutions or perfecting my swing on the golf course, I’m always striving to learn and grow."
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Welcome to My Website",
+    "section": "Featured Project",
+    "text": "Featured Project\n\nFinal Year Project: AI-Powered Golf Swing Analyzer\nCheck out my Final Year Project where I developed an AI-powered golf swing analyzer. This project aims to help golfers of all levels improve their swing by providing real-time feedback and personalized coaching tips. The system uses computer vision and machine learning algorithms to analyze the swing mechanics and suggest improvements.\n\nKey Features:\n\nReal-time analysis\nPersonalized coaching tips\nPerformance tracking\n\n\n\n\n\nGolf Swing Analyzer"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Profile Picture\nHi, I’m Donovan, an Applied AI student with a passion for technology, sports, and continuous learning. Welcome to my personal space on the web where I share my journey, projects, interests, and more."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Golf is a sport that combines precision, technique, and consistent practice. My journey into developing an AI-powered golf swing analyzer was driven by a personal passion for the game and a desire to merge this passion with my expertise in Applied AI. This innovative tool is designed to help golfers of all levels improve their swing by providing real-time feedback and personalized coaching tips. By leveraging computer vision and machine learning algorithms, the system analyzes swing mechanics and offers detailed suggestions for improvement.\n\n\n\nThe idea for this project came during a particularly challenging round of golf. I realized that while many professional golfers have access to coaches and advanced training tools, casual and amateur golfers often struggle to get meaningful feedback on their technique. This gap inspired me to create a solution that could democratize access to high-quality golf training through technology.\n\n\n\n\n\nThe primary objective of this project is to develop an AI-based system that can analyze golf swings and provide actionable insights to help golfers enhance their performance. The system aims to be user-friendly, accurate, and capable of offering real-time feedback.\n\n\n\n\nReal-time Analysis: The system processes video footage of the user’s golf swing and provides immediate feedback.\nPersonalized Coaching Tips: Based on the analysis, the system offers customized coaching tips tailored to the individual’s swing mechanics.\nPerformance Tracking: Users can track their progress over time, allowing them to see improvements and areas that need further development.\n\n\n\n\nGolf Swing Analyzer\n\n\n\n\n\n\n\n\nTo train the AI model, a large dataset of golf swings was collected. This dataset includes swings from golfers of varying skill levels, ensuring that the model can generalize well across different users. Each swing was annotated with key points such as body posture, club angle, and swing path, providing the necessary data to train the model.\n\n\n\nComputer vision techniques are used to process and analyze the video footage of the golf swings. By utilizing advanced algorithms, the system can track key points on the golfer’s body and the club, allowing it to understand the mechanics of the swing. Techniques such as pose estimation and object detection play a crucial role in this process.\n\n\n\nMachine learning algorithms are employed to classify and evaluate the swing. The model is trained to recognize common issues in swings and suggest corrections. Techniques such as convolutional neural networks (CNNs) are utilized to handle the complex patterns in the video data. The training process involved rigorous testing and validation to ensure the model’s accuracy and reliability.\n\n\n\nThe system is designed to provide feedback in real-time. This involves optimizing the algorithms to run efficiently on consumer-grade hardware, ensuring that users receive immediate insights without noticeable delays. The feedback system includes visual overlays on the video footage and textual coaching tips that highlight specific areas for improvement.\n\n\n\n\n\n\n\nPython: For data processing and model development.\nOpenCV: For computer vision tasks.\nTensorFlow/Keras: For building and training machine learning models.\nFlask: To create a web interface for users to upload videos and receive feedback.\n\n\n\n\n\nVideo Upload: Users upload their swing videos through a web interface.\nPre-processing: The video is processed to extract frames and key points.\nAnalysis: The pre-processed data is fed into the AI model, which analyzes the swing.\nFeedback Generation: Based on the analysis, personalized coaching tips are generated.\nUser Interface: Feedback is displayed to the user through the web interface, along with visualizations of their swing mechanics.\n\n\n\n\n\nThe AI-powered golf swing analyzer has shown promising results in preliminary tests. Users have reported significant improvements in their swing mechanics and overall performance. The system’s ability to provide real-time, actionable feedback has been particularly appreciated. One user, for instance, noted a 15% improvement in their swing accuracy after just a few weeks of using the system.\n\n\n\n\n\nFuture work will focus on improving the accuracy of the swing analysis. This includes expanding the dataset with more diverse swings and refining the machine learning algorithms to better understand subtle nuances in different types of swings.\n\n\n\nPotential additional features include: - Voice Feedback: Providing audible coaching tips during practice sessions. - Integration with Wearable Devices: Using data from smartwatches or fitness trackers to enhance the analysis. - Advanced Metrics: Offering more detailed metrics, such as swing speed and angle, to give users a deeper understanding of their performance.\n\n\n\nImproving the user interface to make it more intuitive and engaging will be a priority. This includes adding features like interactive tutorials, progress tracking dashboards, and gamified elements to make the training process more enjoyable.\n\n\n\n\nThe AI-powered golf swing analyzer represents a fusion of technology and sport, offering golfers a powerful tool to enhance their game. By leveraging the latest advancements in AI and machine learning, this project demonstrates the potential for technology to transform the way we approach sports training and performance improvement.\n\n\n\nGolf Swing Analysis Visualization\n\n\nFor more details on my projects and other interests, feel free to explore the Hobbies and Recipes pages."
+  },
+  {
+    "objectID": "projects.html#final-year-project-xxx-project",
+    "href": "projects.html#final-year-project-xxx-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a detailed look at my final year project:\n\nObjective: What the project aimed to achieve\nMy Role: What was my contribution\nResults: What outcomes were achieved\n\n\n\n\nProject Image\n\n\nFor more projects, visit My Portfolio."
+  },
+  {
+    "objectID": "curriculum.html",
+    "href": "curriculum.html",
+    "title": "Curriculum Achievements",
+    "section": "",
+    "text": "Over the years, I’ve completed several courses and programs that have significantly enhanced my skills and knowledge. Here are some highlights:\n\n\n\nInstitution: XYZ University\nYear: 2021\nKey Learnings: Focus on machine learning models, data visualization, and big data analysis.\n\n\n\n\n\nInstitution: ABC Institute\nYear: 2019\nKey Learnings: Developed essential leadership skills, including conflict resolution, team motivation, and strategic planning.\n\n\n\n\nCertificate\n\n\nThese programs have not only bolstered my academic and professional profile but also provided invaluable life lessons."
+  },
+  {
+    "objectID": "curriculum.html#advanced-data-science-certification",
+    "href": "curriculum.html#advanced-data-science-certification",
+    "title": "Curriculum Achievements",
+    "section": "",
+    "text": "Institution: XYZ University\nYear: 2021\nKey Learnings: Focus on machine learning models, data visualization, and big data analysis."
+  },
+  {
+    "objectID": "curriculum.html#leadership-training",
+    "href": "curriculum.html#leadership-training",
+    "title": "Curriculum Achievements",
+    "section": "",
+    "text": "Institution: ABC Institute\nYear: 2019\nKey Learnings: Developed essential leadership skills, including conflict resolution, team motivation, and strategic planning.\n\n\n\n\nCertificate\n\n\nThese programs have not only bolstered my academic and professional profile but also provided invaluable life lessons."
+  },
+  {
+    "objectID": "reviews.html",
+    "href": "reviews.html",
+    "title": "Movie Reviews",
+    "section": "",
+    "text": "I enjoy watching and analyzing films. Here are reviews of some of my favorite movies:\n\n\nA mind-bending exploration of space and time, with stunning visuals and a gripping plot.\n\nRating: 9/10\nDirector: Christopher Nolan\n\n\n\n\nInterstellar Movie"
+  },
+  {
+    "objectID": "reviews.html#interstellar",
+    "href": "reviews.html#interstellar",
+    "title": "Movie Reviews",
+    "section": "",
+    "text": "A mind-bending exploration of space and time, with stunning visuals and a gripping plot.\n\nRating: 9/10\nDirector: Christopher Nolan\n\n\n\n\nInterstellar Movie"
+  },
+  {
+    "objectID": "index.html#favorite-recipes",
+    "href": "index.html#favorite-recipes",
+    "title": "Welcome to My Website",
+    "section": "Favorite Recipes",
+    "text": "Favorite Recipes\nDiscover my favorite recipes that I enjoy cooking and sharing. From comforting home-cooked meals to exciting new dishes, find out what’s cooking!\n\nSpaghetti alla Carbonara\nOne of my all-time favorite dishes is Spaghetti alla Carbonara. This classic Italian pasta dish is rich, creamy, and incredibly satisfying. Check out the full recipe and story behind it here.\n\n\n\nSpaghetti Carbonara"
+  },
+  {
+    "objectID": "recipes.html",
+    "href": "recipes.html",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "My love for cooking started in my grandmother’s kitchen, where the aroma of homemade meals would fill the house. Among the many dishes she prepared, Spaghetti alla Carbonara holds a special place in my heart. This classic Italian dish, with its rich, creamy sauce and savory pancetta, is the epitome of comfort food.\n\n\n\nSpaghetti alla Carbonara is a traditional Roman pasta dish that has been a staple in Italian cuisine for decades. Its origins are somewhat mysterious, with various theories about how it came to be. Some say it was created by Italian charcoal workers, while others believe it emerged after World War II when American soldiers brought bacon and eggs to Italy. Regardless of its origins, Carbonara has become a beloved dish worldwide.\n\n\n\nTo recreate this authentic dish, you’ll need the following ingredients: - 1 lb dry spaghetti - 12 oz pancetta or bacon, cubed - 3 large eggs - 1 cup freshly grated Parmesan cheese - 4 cloves garlic, finely chopped - 1/2 tsp ground black pepper - 1/4 cup chopped fresh parsley (optional) - 1/2 cup reserved pasta water\n\n\n\n\nCook the Spaghetti: Begin by cooking the spaghetti in a large pot of salted boiling water until al dente. Reserve 1/2 cup of the pasta water before draining the spaghetti.\nPrepare the Pancetta: While the pasta cooks, heat a large skillet over medium heat. Add the pancetta and cook until crispy, about 5-7 minutes. Add the chopped garlic to the skillet and sauté for another minute, ensuring it doesn’t burn.\nCombine Eggs and Cheese: In a medium bowl, whisk together the eggs and grated Parmesan cheese until well combined.\nMix Pasta with Pancetta: Add the drained spaghetti to the skillet with the pancetta and garlic. Toss to coat the pasta evenly with the pancetta fat.\nCreate the Sauce: Remove the skillet from the heat and quickly pour in the egg and cheese mixture, tossing continuously to prevent the eggs from scrambling. Add reserved pasta water a little at a time to achieve a creamy consistency.\nSeason and Serve: Season with ground black pepper and garnish with chopped parsley, if using. Serve immediately, topped with extra Parmesan cheese if desired.\n\n\n\n\nSpaghetti alla Carbonara\n\n\n\n\n\nTo see this recipe in action, watch the video below:\n\n\n\n\nOne of my fondest memories is making Spaghetti alla Carbonara for a family gathering. As I stood in the kitchen, surrounded by loved ones, the sizzle of pancetta and the fragrant aroma of garlic filled the room. The anticipation built as I tossed the hot pasta with the egg mixture, creating a velvety sauce that clung to each strand of spaghetti.\nWhen we finally sat down to eat, the room fell silent as everyone took their first bite. The combination of salty pancetta, creamy sauce, and perfectly cooked pasta was a hit. It was a reminder of how food can bring people together, creating moments of joy and connection.\n\n\n\n\nUse Fresh Ingredients: Freshly grated Parmesan and high-quality pancetta or bacon make a significant difference in the flavor.\nTemperature Control: Make sure to remove the skillet from the heat before adding the egg mixture to prevent scrambling.\nReserved Pasta Water: This starchy water is crucial for achieving the desired creamy texture of the sauce.\n\nThis Spaghetti alla Carbonara recipe is not just a dish but a cherished tradition in my family. It’s a testament to the power of simple, high-quality ingredients and the love and care put into every meal. I hope you enjoy making and sharing this dish as much as I do."
+  },
+  {
+    "objectID": "recipes.html#spaghetti-carbonara",
+    "href": "recipes.html#spaghetti-carbonara",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "Ingredients: - Spaghetti - Pancetta - Eggs - Parmesan Cheese - Black Pepper\nInstructions: 1. Cook spaghetti in salted boiling water. 2. Sauté pancetta in a pan until crisp. 3. Beat eggs and Parmesan together, then mix with the hot spaghetti. 4. Add pancetta and season with black pepper.\n\n\n\nSpaghetti Carbonara"
+  },
+  {
+    "objectID": "recipes.html#spaghetti-alla-carbonara",
+    "href": "recipes.html#spaghetti-alla-carbonara",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "This Spaghetti alla Carbonara recipe is perfect for a busy weeknight. It’s indulgent yet quick and simple to prepare.\n\n\n\n1 lb dry spaghetti noodles\n12 oz bacon, cubed\n3 eggs\n1 cup freshly grated Parmesan cheese\n4 garlic cloves, finely chopped\n1/2 tsp ground black pepper\n1/4 cup chopped parsley (optional)\n1/2 cup reserved pasta water\n\n\n\n\n\nPrepare the Spaghetti: Cook the spaghetti according to package instructions. Reserve 1/2 cup of pasta water before draining.\nCook the Bacon: In a deep skillet over medium heat, cook the bacon until crispy, about 5 minutes. Add the garlic and sauté for an additional minute.\nMix Eggs and Cheese: In a mixing bowl, beat the eggs and Parmesan cheese together.\nCombine with Pasta: Add the hot, drained spaghetti to the skillet with the bacon and toss to coat. Remove the skillet from heat and quickly pour in the egg and cheese mixture, stirring constantly to avoid scrambling the eggs.\nAdjust Consistency: Use the reserved pasta water to thin the sauce if necessary. Season with black pepper and garnish with parsley if desired.\n\n\n\n\nSpaghetti Carbonara\n\n\nThis recipe combines simple ingredients to create a rich, creamy dish that’s sure to impress. Enjoy!\nFor more recipes, stay tuned or visit the Simply Recipes for additional inspiration."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "My journey with golf started over a decade ago, during a sunny summer afternoon when a family friend invited me to join him at the local golf course. Little did I know, that day would ignite a lifelong passion for the game. I remember standing on the lush green fairway, gripping the club nervously, and taking my first swing. The sound of the club striking the ball and watching it soar through the air was exhilarating. That moment hooked me, and I’ve been chasing that perfect swing ever since.\n\n\n\nGolf quickly became more than just a casual hobby. I started dedicating hours each week to practice, honing my skills at the driving range, and studying the techniques of golf legends like Tiger Woods and Jack Nicklaus. I joined a local golf club, where I met mentors and fellow enthusiasts who shared valuable insights and tips. My dedication paid off as I gradually improved my handicap, reducing it to a respectable [your handicap].\n\n\n\nOver the years, I’ve participated in numerous tournaments and competitions, each one a learning experience and an opportunity to test my skills under pressure. Some of my proudest achievements include:\n\nClub Championship Victory: Winning the annual club championship was a dream come true. The final round was intense, but my focus and determination saw me through.\nRegional Amateur Tournament: Placing in the top 10 at a regional amateur tournament was a significant milestone. Competing against some of the best amateur golfers in the region pushed me to elevate my game.\nHole-in-One: Achieving a hole-in-one on the par-3 7th hole at my home course was an unforgettable moment. The sheer joy and disbelief shared with my playing partners made it a memory to cherish.\n\n\n\n\nGolf has not only improved my physical fitness but also sharpened my mental acuity. Here are some skills I’ve developed through the game:\n\nPatience and Persistence: Golf is a game of precision and patience. Each round presents new challenges, teaching me to stay calm and focused, even when things don’t go as planned.\nStrategic Thinking: Every shot in golf requires careful planning and execution. Analyzing the course layout, considering wind conditions, and selecting the right club are crucial decisions that have honed my strategic thinking.\nResilience: Golf can be a humbling sport. There are days when nothing seems to go right, but these moments have taught me resilience and the importance of a positive mindset.\n\n\n\n\nGolf offers a unique blend of physical exercise, mental discipline, and social interaction. Here’s why I am passionate about the game:\n\n\nThere’s something profoundly peaceful about being out on the golf course, surrounded by nature. Whether it’s the early morning mist rising off the fairways or the vibrant colors of a sunset round, the beauty of the course is a constant source of inspiration and tranquility.\n\n\n\nEvery round of golf is a new challenge, a fresh opportunity to improve and refine my skills. The pursuit of that perfect swing, the satisfaction of a well-executed shot, and the thrill of sinking a long putt are what keep me coming back.\n\n\n\nGolf has introduced me to a wonderful community of people. From fellow club members to competitors in tournaments, the camaraderie and friendships I’ve formed through the game are invaluable. Sharing tips, celebrating victories, and even commiserating over tough rounds have enriched my golfing experience.\n\n\n\nOne of my most memorable rounds was during a charity tournament last year. The weather was perfect, and I was paired with a group of skilled and friendly golfers. As the round progressed, my game was in top form. On the final hole, a par-5, I hit my second shot perfectly, landing just a few feet from the pin. Sinking the eagle putt was a moment of sheer joy, and the applause from my playing partners and spectators made it even more special.\n\n\n\nGolfing\n\n\nPlaying golf has enriched my life in many ways, and I always look forward to my next round on the course. Whether it’s an early morning tee time or a leisurely weekend game, golf remains a constant source of joy and improvement for me.\n\n\n\n\nAs I continue my golfing journey, I aim to participate in more tournaments, further reduce my handicap, and perhaps even mentor new golfers who are just starting their journey. The game of golf has given me so much, and I look forward to many more years of challenges, achievements, and cherished memories on the course."
+  },
+  {
+    "objectID": "hobbies.html#how-it-all-began",
+    "href": "hobbies.html#how-it-all-began",
+    "title": "Hobbies",
+    "section": "",
+    "text": "My journey with golf started over a decade ago, during a sunny summer afternoon when a family friend invited me to join him at the local golf course. Little did I know, that day would ignite a lifelong passion for the game. I remember standing on the lush green fairway, gripping the club nervously, and taking my first swing. The sound of the club striking the ball and watching it soar through the air was exhilarating. That moment hooked me, and I’ve been chasing that perfect swing ever since."
+  },
+  {
+    "objectID": "hobbies.html#dedication-to-the-craft",
+    "href": "hobbies.html#dedication-to-the-craft",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Golf quickly became more than just a casual hobby. I started dedicating hours each week to practice, honing my skills at the driving range, and studying the techniques of golf legends like Tiger Woods and Jack Nicklaus. I joined a local golf club, where I met mentors and fellow enthusiasts who shared valuable insights and tips. My dedication paid off as I gradually improved my handicap, reducing it to a respectable [your handicap]."
+  },
+  {
+    "objectID": "hobbies.html#achievements-and-milestones",
+    "href": "hobbies.html#achievements-and-milestones",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Over the years, I’ve participated in numerous tournaments and competitions, each one a learning experience and an opportunity to test my skills under pressure. Some of my proudest achievements include:\n\nClub Championship Victory: Winning the annual club championship was a dream come true. The final round was intense, but my focus and determination saw me through.\nRegional Amateur Tournament: Placing in the top 10 at a regional amateur tournament was a significant milestone. Competing against some of the best amateur golfers in the region pushed me to elevate my game.\nHole-in-One: Achieving a hole-in-one on the par-3 7th hole at my home course was an unforgettable moment. The sheer joy and disbelief shared with my playing partners made it a memory to cherish."
+  },
+  {
+    "objectID": "hobbies.html#the-skills-ive-developed",
+    "href": "hobbies.html#the-skills-ive-developed",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Golf has not only improved my physical fitness but also sharpened my mental acuity. Here are some skills I’ve developed through the game:\n\nPatience and Persistence: Golf is a game of precision and patience. Each round presents new challenges, teaching me to stay calm and focused, even when things don’t go as planned.\nStrategic Thinking: Every shot in golf requires careful planning and execution. Analyzing the course layout, considering wind conditions, and selecting the right club are crucial decisions that have honed my strategic thinking.\nResilience: Golf can be a humbling sport. There are days when nothing seems to go right, but these moments have taught me resilience and the importance of a positive mindset."
+  },
+  {
+    "objectID": "hobbies.html#why-i-love-golf",
+    "href": "hobbies.html#why-i-love-golf",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Golf offers a unique blend of physical exercise, mental discipline, and social interaction. Here’s why I am passionate about the game:\n\n\nThere’s something profoundly peaceful about being out on the golf course, surrounded by nature. Whether it’s the early morning mist rising off the fairways or the vibrant colors of a sunset round, the beauty of the course is a constant source of inspiration and tranquility.\n\n\n\nEvery round of golf is a new challenge, a fresh opportunity to improve and refine my skills. The pursuit of that perfect swing, the satisfaction of a well-executed shot, and the thrill of sinking a long putt are what keep me coming back.\n\n\n\nGolf has introduced me to a wonderful community of people. From fellow club members to competitors in tournaments, the camaraderie and friendships I’ve formed through the game are invaluable. Sharing tips, celebrating victories, and even commiserating over tough rounds have enriched my golfing experience.\n\n\n\nOne of my most memorable rounds was during a charity tournament last year. The weather was perfect, and I was paired with a group of skilled and friendly golfers. As the round progressed, my game was in top form. On the final hole, a par-5, I hit my second shot perfectly, landing just a few feet from the pin. Sinking the eagle putt was a moment of sheer joy, and the applause from my playing partners and spectators made it even more special.\n\n\n\nGolfing\n\n\nPlaying golf has enriched my life in many ways, and I always look forward to my next round on the course. Whether it’s an early morning tee time or a leisurely weekend game, golf remains a constant source of joy and improvement for me."
+  },
+  {
+    "objectID": "hobbies.html#looking-ahead",
+    "href": "hobbies.html#looking-ahead",
+    "title": "Hobbies",
+    "section": "",
+    "text": "As I continue my golfing journey, I aim to participate in more tournaments, further reduce my handicap, and perhaps even mentor new golfers who are just starting their journey. The game of golf has given me so much, and I look forward to many more years of challenges, achievements, and cherished memories on the course."
+  },
+  {
+    "objectID": "recipes.html#a-culinary-journey-spaghetti-alla-carbonara",
+    "href": "recipes.html#a-culinary-journey-spaghetti-alla-carbonara",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "My love for cooking started in my grandmother’s kitchen, where the aroma of homemade meals would fill the house. Among the many dishes she prepared, Spaghetti alla Carbonara holds a special place in my heart. This classic Italian dish, with its rich, creamy sauce and savory pancetta, is the epitome of comfort food."
+  },
+  {
+    "objectID": "recipes.html#the-origin-of-carbonara",
+    "href": "recipes.html#the-origin-of-carbonara",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "Spaghetti alla Carbonara is a traditional Roman pasta dish that has been a staple in Italian cuisine for decades. Its origins are somewhat mysterious, with various theories about how it came to be. Some say it was created by Italian charcoal workers, while others believe it emerged after World War II when American soldiers brought bacon and eggs to Italy. Regardless of its origins, Carbonara has become a beloved dish worldwide."
+  },
+  {
+    "objectID": "recipes.html#ingredients",
+    "href": "recipes.html#ingredients",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "To recreate this authentic dish, you’ll need the following ingredients: - 1 lb dry spaghetti - 12 oz pancetta or bacon, cubed - 3 large eggs - 1 cup freshly grated Parmesan cheese - 4 cloves garlic, finely chopped - 1/2 tsp ground black pepper - 1/4 cup chopped fresh parsley (optional) - 1/2 cup reserved pasta water"
+  },
+  {
+    "objectID": "recipes.html#instructions",
+    "href": "recipes.html#instructions",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "Cook the Spaghetti: Begin by cooking the spaghetti in a large pot of salted boiling water until al dente. Reserve 1/2 cup of the pasta water before draining the spaghetti.\nPrepare the Pancetta: While the pasta cooks, heat a large skillet over medium heat. Add the pancetta and cook until crispy, about 5-7 minutes. Add the chopped garlic to the skillet and sauté for another minute, ensuring it doesn’t burn.\nCombine Eggs and Cheese: In a medium bowl, whisk together the eggs and grated Parmesan cheese until well combined.\nMix Pasta with Pancetta: Add the drained spaghetti to the skillet with the pancetta and garlic. Toss to coat the pasta evenly with the pancetta fat.\nCreate the Sauce: Remove the skillet from the heat and quickly pour in the egg and cheese mixture, tossing continuously to prevent the eggs from scrambling. Add reserved pasta water a little at a time to achieve a creamy consistency.\nSeason and Serve: Season with ground black pepper and garnish with chopped parsley, if using. Serve immediately, topped with extra Parmesan cheese if desired.\n\n\n\n\nSpaghetti alla Carbonara"
+  },
+  {
+    "objectID": "recipes.html#a-memorable-meal",
+    "href": "recipes.html#a-memorable-meal",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "One of my fondest memories is making Spaghetti alla Carbonara for a family gathering. As I stood in the kitchen, surrounded by loved ones, the sizzle of pancetta and the fragrant aroma of garlic filled the room. The anticipation built as I tossed the hot pasta with the egg mixture, creating a velvety sauce that clung to each strand of spaghetti.\nWhen we finally sat down to eat, the room fell silent as everyone took their first bite. The combination of salty pancetta, creamy sauce, and perfectly cooked pasta was a hit. It was a reminder of how food can bring people together, creating moments of joy and connection."
+  },
+  {
+    "objectID": "recipes.html#tips-for-perfect-carbonara",
+    "href": "recipes.html#tips-for-perfect-carbonara",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "Use Fresh Ingredients: Freshly grated Parmesan and high-quality pancetta or bacon make a significant difference in the flavor.\nTemperature Control: Make sure to remove the skillet from the heat before adding the egg mixture to prevent scrambling.\nReserved Pasta Water: This starchy water is crucial for achieving the desired creamy texture of the sauce.\n\nThis Spaghetti alla Carbonara recipe is not just a dish but a cherished tradition in my family. It’s a testament to the power of simple, high-quality ingredients and the love and care put into every meal. I hope you enjoy making and sharing this dish as much as I do."
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Welcome to My Website",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nGolf\nGolf is more than just a hobby for me; it’s a passion. I started playing golf at a young age and have since honed my skills through countless rounds and practice sessions. The strategic and mental aspects of golf keep me engaged and motivated to improve.\n\nAchievements:\n\nHandicap: 21\nTournaments: Participated in Regional Amateur Tournament, Club Championship\nAwards: Won Club Championship\n\n\n\n\n\nDubai Hills Golf Club"
+  },
+  {
+    "objectID": "index.html#more-pages",
+    "href": "index.html#more-pages",
+    "title": "Welcome to My Website",
+    "section": "More Pages",
+    "text": "More Pages\nExplore more about my work and interests on these pages: - Hobbies - Projects - Recipes\n\nVisit the Projects Page for more details on my work and Hobbies Page to learn more about what keeps me busy outside of academics and professional life."
+  },
+  {
+    "objectID": "projects.html#introduction",
+    "href": "projects.html#introduction",
+    "title": "Projects",
+    "section": "",
+    "text": "Golf is a sport that combines precision, technique, and consistent practice. My journey into developing an AI-powered golf swing analyzer was driven by a personal passion for the game and a desire to merge this passion with my expertise in Applied AI. This innovative tool is designed to help golfers of all levels improve their swing by providing real-time feedback and personalized coaching tips. By leveraging computer vision and machine learning algorithms, the system analyzes swing mechanics and offers detailed suggestions for improvement."
+  },
+  {
+    "objectID": "projects.html#the-inspiration",
+    "href": "projects.html#the-inspiration",
+    "title": "Projects",
+    "section": "",
+    "text": "The idea for this project came during a particularly challenging round of golf. I realized that while many professional golfers have access to coaches and advanced training tools, casual and amateur golfers often struggle to get meaningful feedback on their technique. This gap inspired me to create a solution that could democratize access to high-quality golf training through technology."
+  },
+  {
+    "objectID": "projects.html#project-overview",
+    "href": "projects.html#project-overview",
+    "title": "Projects",
+    "section": "",
+    "text": "The primary objective of this project is to develop an AI-based system that can analyze golf swings and provide actionable insights to help golfers enhance their performance. The system aims to be user-friendly, accurate, and capable of offering real-time feedback.\n\n\n\n\nReal-time Analysis: The system processes video footage of the user’s golf swing and provides immediate feedback.\nPersonalized Coaching Tips: Based on the analysis, the system offers customized coaching tips tailored to the individual’s swing mechanics.\nPerformance Tracking: Users can track their progress over time, allowing them to see improvements and areas that need further development.\n\n\n\n\nGolf Swing Analyzer"
+  },
+  {
+    "objectID": "projects.html#methodologies",
+    "href": "projects.html#methodologies",
+    "title": "Projects",
+    "section": "",
+    "text": "To train the AI model, a large dataset of golf swings was collected. This dataset includes swings from golfers of varying skill levels, ensuring that the model can generalize well across different users. Each swing was annotated with key points such as body posture, club angle, and swing path, providing the necessary data to train the model.\n\n\n\nComputer vision techniques are used to process and analyze the video footage of the golf swings. By utilizing advanced algorithms, the system can track key points on the golfer’s body and the club, allowing it to understand the mechanics of the swing. Techniques such as pose estimation and object detection play a crucial role in this process.\n\n\n\nMachine learning algorithms are employed to classify and evaluate the swing. The model is trained to recognize common issues in swings and suggest corrections. Techniques such as convolutional neural networks (CNNs) are utilized to handle the complex patterns in the video data. The training process involved rigorous testing and validation to ensure the model’s accuracy and reliability.\n\n\n\nThe system is designed to provide feedback in real-time. This involves optimizing the algorithms to run efficiently on consumer-grade hardware, ensuring that users receive immediate insights without noticeable delays. The feedback system includes visual overlays on the video footage and textual coaching tips that highlight specific areas for improvement."
+  },
+  {
+    "objectID": "projects.html#implementation-details",
+    "href": "projects.html#implementation-details",
+    "title": "Projects",
+    "section": "",
+    "text": "Python: For data processing and model development.\nOpenCV: For computer vision tasks.\nTensorFlow/Keras: For building and training machine learning models.\nFlask: To create a web interface for users to upload videos and receive feedback.\n\n\n\n\n\nVideo Upload: Users upload their swing videos through a web interface.\nPre-processing: The video is processed to extract frames and key points.\nAnalysis: The pre-processed data is fed into the AI model, which analyzes the swing.\nFeedback Generation: Based on the analysis, personalized coaching tips are generated.\nUser Interface: Feedback is displayed to the user through the web interface, along with visualizations of their swing mechanics."
+  },
+  {
+    "objectID": "projects.html#outcomes",
+    "href": "projects.html#outcomes",
+    "title": "Projects",
+    "section": "",
+    "text": "The AI-powered golf swing analyzer has shown promising results in preliminary tests. Users have reported significant improvements in their swing mechanics and overall performance. The system’s ability to provide real-time, actionable feedback has been particularly appreciated. One user, for instance, noted a 15% improvement in their swing accuracy after just a few weeks of using the system."
+  },
+  {
+    "objectID": "projects.html#future-work",
+    "href": "projects.html#future-work",
+    "title": "Projects",
+    "section": "",
+    "text": "Future work will focus on improving the accuracy of the swing analysis. This includes expanding the dataset with more diverse swings and refining the machine learning algorithms to better understand subtle nuances in different types of swings.\n\n\n\nPotential additional features include: - Voice Feedback: Providing audible coaching tips during practice sessions. - Integration with Wearable Devices: Using data from smartwatches or fitness trackers to enhance the analysis. - Advanced Metrics: Offering more detailed metrics, such as swing speed and angle, to give users a deeper understanding of their performance.\n\n\n\nImproving the user interface to make it more intuitive and engaging will be a priority. This includes adding features like interactive tutorials, progress tracking dashboards, and gamified elements to make the training process more enjoyable."
+  },
+  {
+    "objectID": "projects.html#conclusion",
+    "href": "projects.html#conclusion",
+    "title": "Projects",
+    "section": "",
+    "text": "The AI-powered golf swing analyzer represents a fusion of technology and sport, offering golfers a powerful tool to enhance their game. By leveraging the latest advancements in AI and machine learning, this project demonstrates the potential for technology to transform the way we approach sports training and performance improvement.\n\n\n\nGolf Swing Analysis Visualization\n\n\nFor more details on my projects and other interests, feel free to explore the Hobbies and Recipes pages."
+  },
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "My Background",
+    "text": "My Background\nI was born and raised in [your hometown], where my fascination with technology began at an early age. My curiosity about how things work led me to pursue a degree in Applied Artificial Intelligence at [your university]. This program has equipped me with the skills and knowledge to develop innovative solutions that leverage the power of AI."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Science in Applied Artificial Intelligence\n\nInstitution: Singapore Of Technology\nYear of Graduation: 2026\nKey Courses: Machine Learning, Computer Vision, Natural Language Processing, Data Science"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nInternship at DBS\nDuring my internship at DBS, I worked on developing AI models to enhance customer experience. My primary responsibilities included:\n\nDeveloping and training machine learning models for customer sentiment analysis.\nCollaborating with the data science team to optimize algorithms for better accuracy.\nPresenting findings and insights to stakeholders to inform strategic decisions.\n\n\n\nProjects\n\nAI-Powered Golf Swing Analyzer\nOne of my most significant projects is the AI-powered golf swing analyzer. This project combines my love for golf with my AI expertise, aiming to help golfers improve their swing through real-time feedback and personalized coaching tips.\n\nTechnologies Used: Python, OpenCV, TensorFlow, Flask\nOutcome: Enhanced swing accuracy and performance for users.\n\nFor more details, visit the Projects Page."
+  },
+  {
+    "objectID": "about.html#hobbies-and-interests",
+    "href": "about.html#hobbies-and-interests",
+    "title": "About Me",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\nGolf\nGolf is more than just a sport for me; it’s a passion. I started playing golf at a young age and have since competed in various tournaments, winning several awards. The strategic and mental aspects of golf keep me engaged and motivated."
+  },
+  {
+    "objectID": "about.html#personal-philosophy",
+    "href": "about.html#personal-philosophy",
+    "title": "About Me",
+    "section": "Personal Philosophy",
+    "text": "Personal Philosophy\nI believe in the power of continuous learning and improvement. Whether it’s on the golf course or in the lab, I strive to push my boundaries and explore new possibilities. My journey in AI has taught me the importance of curiosity, resilience, and the willingness to embrace challenges."
+  },
+  {
+    "objectID": "about.html#contact-me",
+    "href": "about.html#contact-me",
+    "title": "About Me",
+    "section": "Contact Me",
+    "text": "Contact Me\nI’m always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me via GitHub.\nThank you for visiting my website. I hope you find the content here insightful and inspiring."
+  },
+  {
+    "objectID": "recipes.html#watch-the-recipe",
+    "href": "recipes.html#watch-the-recipe",
+    "title": "Favorite Recipes",
+    "section": "",
+    "text": "To see this recipe in action, watch the video below:"
+  }
+]
