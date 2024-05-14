@@ -1,9 +1,55 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+![Profile Picture](image/Me.jpeg)
 
-```{r}
-1 + 1
-```
+Hi, I'm Donovan, an Applied AI student with a passion for technology, sports, and continuous learning. Welcome to my personal space on the web where I share my journey, projects, interests, and more.
+
+## My Background
+
+I was born and raised in \[your hometown\], where my fascination with technology began at an early age. My curiosity about how things work led me to pursue a degree in Applied Artificial Intelligence at \[your university\]. This program has equipped me with the skills and knowledge to develop innovative solutions that leverage the power of AI.
+
+## Education
+
+-   **Bachelor of Science in Applied Artificial Intelligence**
+    -   **Institution**: Singapore Of Technology
+    -   **Year of Graduation**: 2026
+    -   **Key Courses**: Machine Learning, Computer Vision, Natural Language Processing, Data Science
+
+## Professional Experience
+
+### Internship at DBS
+
+During my internship at DBS, I worked on developing AI models to enhance customer experience. My primary responsibilities included:
+
+-   Developing and training machine learning models for customer sentiment analysis.
+-   Collaborating with the data science team to optimize algorithms for better accuracy.
+-   Presenting findings and insights to stakeholders to inform strategic decisions.
+
+### Projects
+
+#### AI-Powered Golf Swing Analyzer
+
+One of my most significant projects is the AI-powered golf swing analyzer. This project combines my love for golf with my AI expertise, aiming to help golfers improve their swing through real-time feedback and personalized coaching tips.
+
+-   **Technologies Used**: Python, OpenCV, TensorFlow, Flask
+-   **Outcome**: Enhanced swing accuracy and performance for users.
+
+For more details, visit the [Projects Page](./projects.qmd).
+
+## Hobbies and Interests
+
+### Golf
+
+Golf is more than just a sport for me; it's a passion. I started playing golf at a young age and have since competed in various tournaments, winning several awards. The strategic and mental aspects of golf keep me engaged and motivated.
+
+## Personal Philosophy
+
+I believe in the power of continuous learning and improvement. Whether it's on the golf course or in the lab, I strive to push my boundaries and explore new possibilities. My journey in AI has taught me the importance of curiosity, resilience, and the willingness to embrace challenges.
+
+## Contact Me
+
+I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me via [GitHub](https://github.com/Soba101).
+
+Thank you for visiting my website. I hope you find the content here insightful and inspiring.

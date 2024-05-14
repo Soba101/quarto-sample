@@ -1,11 +1,48 @@
 ---
-title: "quarto-sample"
+title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Profile Picture](image/Me.jpeg)
 
-```{r}
-1 + 1
-```
+Hi, I'm Donovan, and this is a little space on the web where I share my journey, projects, and interests. I'm an Applied AI student, and I love to golf! Whether I'm developing innovative AI solutions or perfecting my swing on the golf course, I'm always striving to learn and grow.
+
+## Hobbies
+
+### Golf
+
+Golf is more than just a hobby for me; it's a passion. I started playing golf at a young age and have since honed my skills through countless rounds and practice sessions. The strategic and mental aspects of golf keep me engaged and motivated to improve. 
+
+- **Achievements**:
+  - Handicap: 21
+  - Tournaments: Participated in Regional Amateur Tournament, Club Championship 
+  - Awards: Won Club Championship 
+
+![Dubai Hills Golf Club](image/golf2.jpg)
+
+## Featured Project
+
+### Final Year Project: AI-Powered Golf Swing Analyzer
+
+Check out my [Final Year Project](./projects.qmd) where I developed an AI-powered golf swing analyzer. This project aims to help golfers of all levels improve their swing by providing real-time feedback and personalized coaching tips. The system uses computer vision and machine learning algorithms to analyze the swing mechanics and suggest improvements.
+
+- **Key Features**:
+  - Real-time analysis
+  - Personalized coaching tips
+  - Performance tracking
+
+![Golf Swing Analyzer](image/swing_analyser1.jpg)
+
+## Favorite Recipes
+
+Discover my favorite recipes that I enjoy cooking and sharing. From comforting home-cooked meals to exciting new dishes, find out what's cooking!
+
+### Spaghetti alla Carbonara
+
+One of my all-time favorite dishes is Spaghetti alla Carbonara. This classic Italian pasta dish is rich, creamy, and incredibly satisfying. Check out the full recipe and story behind it [here](./recipes.qmd).
+
+![Spaghetti Carbonara](image/carbonara1.jpg)
+
+
+

@@ -1,14 +1,22 @@
 project:
   type: website
-  output_dir: docs
-
+  output-dir: docs
+  
 website:
-  title: "quarto-sample"
+  title: "Don's DB"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: recipes.qmd
+        text: Recipes
+
 
 format:
   html:
@@ -17,4 +25,3 @@ format:
     toc: true
 
 editor: visual
-
